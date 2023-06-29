@@ -76,6 +76,11 @@ Google Cloud - https://console.cloud.google.com/apis
 4. Initiate chat conversations with your friends and enjoy real-time messaging.
 5. View your chat history and scroll through previous messages exchanged with your friends.
 6. Update your profile information, including name, email, and profile picture.
+
+
+https://github.com/Pranav-Programmer/ChatBit/assets/79044490/f4240e10-4098-4428-bcdb-10d472b28d51
+
+
 ## Feedback and Support
 
 For any feedback or support related inquiries, please contact me at https://pranav-programmer.github.io/Contact-Form/
