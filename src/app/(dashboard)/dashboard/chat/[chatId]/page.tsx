@@ -80,7 +80,7 @@ const page = async ({ params }: PageProps) => {
 
   return (
     <div className="flex-1 justify-between flex flex-col h-full max-h-[calc(100vh-6rem)]">
-  <div className="flex sm:items-center justify-between py-3 border-b-2 border-gray-200 bg-gradient-to-r from-cyan-500 to-blue-400 rounded-lg p-4 md:-mt-10">
+  <div className="-z-10 flex sm:items-center justify-between py-3 border-b-2 border-gray-200 bg-gradient-to-r from-cyan-500 to-blue-400 rounded-lg p-4 md:-mt-10">
     <div className="relative flex items-center space-x-4">
       <div className="relative">
         <div className="relative w-12 h-12" style={{height:'2rem', width:'2rem'}}>
